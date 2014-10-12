@@ -4,16 +4,19 @@ Please note that the original forked repository with the guidelines for the proj
 
 https://github.com/luperman/ExData_Plotting1
 
-I created this repository to post the files required by the course project #1, there are 8 files in this repo:
+I created this separate repository since I wanted to have my own readme.md so you could read my explanations as soon as you landed here.
 
-4 files containing the R code to generate the plots 1 to 4.
+There are 9 files in this repo:
 
-4 files containing the png files generated with the 4 files described above.
+.gitattributes: this file was created automatically by the GitHub application for windows, so I left it here. 
+
+4 R-files containing the R-code to generate the plots 1 to 4.
+
+4 png files containing the plots 1 to 4, they were generated with the 4 R-files described above.
 
 The four plots that I have constructed are shown below.
 
 ### Plot 1
-
 
 ![plot-1](plot1.png) 
 
