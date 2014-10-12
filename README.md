@@ -12,7 +12,7 @@ There are 9 files in this repo:
 
 4 R-files containing the R-code to generate the plots 1 to 4.
 
-4 png files containing the plots 1 to 4, they were generated with the 4 R-files described above.
+4 png files containing the plots 1 to 4, they were generated using the 4 R-files described above.
 
 The four plots that I have constructed are shown below.
 
