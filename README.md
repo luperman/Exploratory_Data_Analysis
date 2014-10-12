@@ -4,7 +4,7 @@ This repository has been created to post the files required by the course projec
 
 4 files containing the R code to generate the plots 1 to 4.
 
-4 files containing the png files generated with the 4 files descrbed above.
+4 files containing the png files generated with the 4 files described above.
 
 The four plots that I have constructed are shown below. 
 
