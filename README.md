@@ -1,8 +1,8 @@
 ## Exploratory data analysis - Course project #1
 
-Please note that the original forked repository with the guidelines for the project can be accessed here:
+### Please note that the original forked repository with the guidelines for the project can be accessed here:
 
-https://github.com/luperman/ExData_Plotting1
+### https://github.com/luperman/ExData_Plotting1
 
 I created this separate repository since I wanted to have my own readme.md so you could read my explanations as soon as you landed here.
 
